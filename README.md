@@ -1,5 +1,3 @@
-Lesson 1 reference:
-
 Install some libraries first:
 
 * go get github.com/op/go-logging # Log API
